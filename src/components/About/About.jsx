@@ -1,5 +1,4 @@
 import React from "react";
-
 import styles from "./About.module.css";
 import { getImageUrl } from "../../utils";
 
@@ -10,37 +9,52 @@ export const About = () => {
       <div className={styles.content}>
         <img
           src={getImageUrl("about/aboutImage.png")}
-          alt="Me sitting with a laptop"
+          alt="Ritam Bhattacharya"
           className={styles.aboutImage}
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
+            <img
+              src={getImageUrl("about/mern.png")}
+              alt="MERN icon"
+              width="256"
+              height="256"
+              style={{ marginRight: "16px" }}
+            />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>MERN Stack Developer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+                Experienced in building full-stack applications using the MERN stack. Developed scalable apps like a personalized news dashboard and an F1 chatbot platform with GenAI and secure authentication.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
+            <img
+              src={getImageUrl("about/javadev.png")}
+              alt="Java icon"
+              width="256"
+              height="256"
+              style={{ marginRight: "16px" }}
+            />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>Java & DSA Enthusiast</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+                Strong foundation in object-oriented programming and data structures with Java. Proficient in solving algorithmic problems and applying core CS principles to real-world challenges.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
+            <img
+              src={getImageUrl("about/ml.png")}
+              alt="ML icon"
+              width="256"
+              height="256"
+              style={{ marginRight: "16px" }}
+            />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>Machine Learning & Research</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                Worked on ML projects involving pollutant prediction, business analytics, and classification accuracy improvements. Completed internships in data science and research roles, with NPTEL certifications in core CS areas.
               </p>
             </div>
           </li>

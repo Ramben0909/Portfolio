@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Trackintel-F1 Chatbot",
+    "imageSrc": "projects/trackintel.png",
+    "description": "AI-powered MERN application delivering F1 insights via a chatbot integrated with LLM APIs, secured with blockchain and optimized with microservices.",
+    "skills": ["React", "Node.js", "Express", "MongoDB", "Blockchain", "LLM APIs"],
+    "demo": "https://www.example.com/trackintel", 
+    "source": "https://github.com/Ramben0909/Trackintel-F1"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Travel Map Application",
+    "imageSrc": "projects/travelmap.png",
+    "description": "Interactive map app using Mapbox GL and Geoapify APIs, featuring user-friendly location search and responsive UI.",
+    "skills": ["React", "Mapbox", "Geoapify", "JavaScript"],
+    "demo": "https://www.example.com/travelmap",
+    "source": "https://github.com/Ramben0909/Travel-Map-App"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Movie Search Application",
+    "imageSrc": "projects/moviesearch.png",
+    "description": "A React app that fetches movie data using the OMDb API and supports localStorage-powered wishlists.",
+    "skills": ["React", "JavaScript", "OMDb API"],
+    "demo": "https://www.example.com/moviesearch",
+    "source": "https://github.com/Ramben0909/Movie-Search-App"
   }
 ]

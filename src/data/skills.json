@@ -8,23 +8,43 @@
     "imageSrc": "skills/css.png"
   },
   {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
     "title": "React",
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "Node",
+    "title": "Node.js",
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "Express.js",
+    "imageSrc": "skills/express.png"
   },
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "My-SQL",
+    "imageSrc": "skills/sql.png"
+  },
+  {
+    "title": "Git & GitHub",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "PyTorch",
+    "imageSrc": "skills/pytorch.png"
   }
 ]

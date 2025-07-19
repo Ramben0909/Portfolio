@@ -7,12 +7,11 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Ada</h1>
+        <h1 className={styles.title}>Hi, I'm Ritam Bhattacharya</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with 5 years of experience using React and
-          NodeJS. Reach out if you'd like to learn more!
+          I'm a full-stack developer skilled in React, Node.js, and deep learning with hands-on experience in AI/ML research and cloud fundamentals. GSoC 2024 Contributor. Passionate about building scalable and performant web apps.
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="mailto:ritambhattacharya2003@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
@@ -20,6 +19,8 @@ export const Hero = () => {
         src={getImageUrl("hero/heroImage.png")}
         alt="Hero image of me"
         className={styles.heroImg}
+        width="500"
+        height="700"
       />
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
