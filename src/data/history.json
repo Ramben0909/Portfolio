@@ -19,7 +19,7 @@
       "Improved species classification accuracy by 30% using fractal dimension analysis",
       "Reduced pattern recognition processing time by 40% across 5+ complex datasets"
     ],
-    "imageSrc": "history/iemiedc.png"
+    "imageSrc": "history/IemIedc.png"
   },
   {
     "role": "Blockchain Developer Intern",
@@ -30,6 +30,6 @@
       "Developed and optimized smart contracts, reducing execution costs by 15%",
       "Implemented secure CRUD app with wallet authentication, reducing unauthorized access by 40%"
     ],
-    "imageSrc": "history/timechain.png"
+    "imageSrc": "history/Timechain.png"
   }
 ]
