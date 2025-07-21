@@ -3,11 +3,15 @@
 .container {
   display: flex;
   flex-direction: column;
+  justify-content: space-between; /* Ensures space is evenly used */
   border-radius: 10px;
   background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
   max-width: 345px;
+  width: 100%;              /* Ensures consistent width */
+  height: 600px;            /* Fixed height for uniformity */
+  box-sizing: border-box;   /* Include padding in height */
 }
 
 .image {
