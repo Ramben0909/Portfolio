@@ -9,7 +9,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Ritam Bhattacharya</h1>
         <p className={styles.description}>
-          I'm a full-stack developer skilled in React, Node.js, and deep learning with hands-on experience in AI/ML research and cloud fundamentals. GSoC 2024 Contributor. Passionate about building scalable and performant web apps.
+          I'm a Mern stack developer along with proficiency in Java Core and Data Structures & Algorithms, skilled in React, Node.js, and deep learning with hands-on experience in AI/ML research and cloud fundamentals. GSoC 2024 Contributor. Passionate about building scalable and performant web apps.
         </p>
         <a href="mailto:ritambhattacharya2003@gmail.com" className={styles.contactBtn}>
           Contact Me
