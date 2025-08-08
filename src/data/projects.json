@@ -1,7 +1,7 @@
 [
   {
     "title": "Trackintel-F1 Chatbot",
-    "imageSrc": "projects/trackintel.png",
+    "imageSrc": "/F1-logo.png",
     "description": "AI-powered MERN application delivering F1 insights via a chatbot integrated with LLM APIs, secured with blockchain and optimized with microservices.",
     "skills": ["React", "Node.js", "Express", "MongoDB", "Blockchain", "LLM APIs"],
     "demo": "https://www.example.com/trackintel", 
