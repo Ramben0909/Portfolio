@@ -9,7 +9,7 @@
   },
   {
     "title": "Travel Map Application",
-    "imageSrc": "projects/travelmap.png",
+    "imageSrc": "projects/TravelNest.png",
     "description": "Interactive map app using Mapbox GL and Geoapify APIs, featuring user-friendly location search and responsive UI.",
     "skills": ["React", "Mapbox", "Geoapify", "JavaScript"],
     "demo": "https://travel-website-three-xi.vercel.app/TravelPLanner",
