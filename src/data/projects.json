@@ -1,10 +1,10 @@
 [
   {
     "title": "Trackintel-F1 Chatbot",
-    "imageSrc": "/F1-logo.png",
+    "imageSrc": "projects/F1-logo.png",
     "description": "AI-powered MERN application delivering F1 insights via a chatbot integrated with LLM APIs, secured with blockchain and optimized with microservices.",
     "skills": ["React", "Node.js", "Express", "MongoDB", "Blockchain", "LLM APIs"],
-    "demo": "https://www.example.com/trackintel", 
+    "demo": "https://trackintel-f1.pages.dev/", 
     "source": "https://github.com/Ramben0909/Trackintel-F1"
   },
   {
@@ -12,7 +12,7 @@
     "imageSrc": "projects/travelmap.png",
     "description": "Interactive map app using Mapbox GL and Geoapify APIs, featuring user-friendly location search and responsive UI.",
     "skills": ["React", "Mapbox", "Geoapify", "JavaScript"],
-    "demo": "https://www.example.com/travelmap",
+    "demo": "https://travel-website-three-xi.vercel.app/TravelPLanner",
     "source": "https://github.com/Ramben0909/Travel-Map-App"
   },
   {
