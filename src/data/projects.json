@@ -20,7 +20,7 @@
     "imageSrc": "projects/MovieSearch.png",
     "description": "A React app that fetches movie data using the OMDb API and supports localStorage-powered wishlists.",
     "skills": ["React", "JavaScript", "OMDb API"],
-    "demo": "https://my-react-project-three-black.vercel.app/",
+    "demo": "https://my-react-project-chi-eight.vercel.app/",
     "source": "https://github.com/Ramben0909/Movie-Search-App"
   }
 ]
